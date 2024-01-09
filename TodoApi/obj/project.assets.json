@@ -1138,11 +1138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Derren\\Desktop\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Derren\\Documents\\GitHub\\work\\Checkj2023\\dotnet_core_environment_tutor\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Derren\\Desktop\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\Derren\\Documents\\GitHub\\work\\Checkj2023\\dotnet_core_environment_tutor\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Derren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Derren\\Desktop\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\Derren\\Documents\\GitHub\\work\\Checkj2023\\dotnet_core_environment_tutor\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Derren\\AppData\\Roaming\\NuGet\\NuGet.Config"

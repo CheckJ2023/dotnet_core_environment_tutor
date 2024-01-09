@@ -126,14 +126,12 @@ app.MapPost("/echo", async (MessageData messageData) =>
 
 //29加
 
-/* 直接指定加載appsettings的部份先移除
+//直接指定加載appsettings的部份先移除
 var configuration = new ConfigurationBuilder()
 .AddJsonFile("appsettings.json",optional:false,reloadOnChange: true)
 .Build();
 builder.Configuration.AddConfiguration(configuration);
-*/
-
-// var env = app.Environment;
+var env = app.Environment;
 
 var envName = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "appsettings";
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ot/PGk7n1w+KS0sGAC9wA6ZnEkCGte7P5c9nzbJZkuP4fqZPGqf6dP2zPw0v+cF8Z05fkiEtI52c+vw8fSrsug==",
+  "dgSpecHash": "kc952zYn/6I2RtE0Ox4+j41kWrb3jUkLNWJgRdGs2johr8laEmOpi3sNwvBC1YYVohibTnF6VjomSGN9m+fxkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Derren\\Desktop\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\Derren\\Documents\\GitHub\\work\\Checkj2023\\dotnet_core_environment_tutor\\todoapi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Derren\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\Derren\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
